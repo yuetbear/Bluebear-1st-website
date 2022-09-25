@@ -1,0 +1,52 @@
+body {
+  background-color: #a7d2cb;
+  margin:0px;
+  text-align: center;
+  font-family:"Merriweather", serif;
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562%;
+
+}
+
+H2{
+    font-family: "Montserrat", sans-serif;
+}
+
+h3{
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top:100px;
+}
+
+
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.top-cloud{
+    position:absolute;
+   right:300px;
+   top:50px;
+
+}
+.email-me{
+    height:40px;
+    width:40px;
+}
+
+
+.subtitle{
+    font-size:2.5rem;
+}
